@@ -74,7 +74,7 @@
         <!-- Profile Summary -->
         <div class="section">
             <h2>🎯 Professional Focus</h2>
-            <p>Detail-oriented QA Specialist with 3+ years of experience validating complex enterprise ecosystems, managing user acceptance testing (UAT) gates, and verifying database integrity using structured MS SQL routines.</p>
+            <p>Detail-oriented QA Specialist with 4+ years of experience validating complex enterprise ecosystems, managing user acceptance testing (UAT) gates, and verifying database integrity using structured MS SQL routines.</p>
         </div>
 
         <!-- Testing Highlights Grid -->
